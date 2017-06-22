@@ -1,0 +1,23 @@
+﻿  ECHO is on.
+  ECHO is on.
+  
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  The system cannot find the path specified.
+  Version String::      1.0.0.rc0
+  Digital Version ID:   1,0,0,0
+  Hex Version ID:       0x0001000000000000
+  Comment:              Release Candidate 0
+  Private Build String: 
+  Is Private Build:     0
+  Is Patched:           VS_FF_PATCHED
+  Is PreRelease:        VS_FF_PRERELEASE
+  test.cpp
+  testVersion.vcxproj -> c:\users\soumya\documents\visual studio 2017\Projects\testVersion\x64\Debug\testVersion.exe
+  testVersion.vcxproj -> c:\users\soumya\documents\visual studio 2017\Projects\testVersion\x64\Debug\testVersion.pdb (Partial PDB)
